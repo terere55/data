@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<layman>
+<overlays>
+	<overlay
+		type = "git"
+		src  = "git://github.com/xyld/overlay.git"
+		contact = "lamo0070@umn.edu"
+		status  = "unofficial"
+		name = "xyld-overlay">
+
+		<link>
+			http://github.com/xyld/overlay
+		</link>
+
+		<description>
+			personal overlay
+		</description>
+	</overlay>
+</overlays>
+</layman>
